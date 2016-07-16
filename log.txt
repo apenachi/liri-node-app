@@ -1,4 +1,5 @@
-[aypmacpro]$: node liri.js movie-this twelve monkeys
+[aypmacpro]$: node liri.js do-what-it-says
+[aypmacpro]$: node liri.js movie-thistwelve monkeys
 Title : Twelve Monkeys
 Year  : 1995
 imdbID: tt0114746
@@ -9,14 +10,15 @@ Actors: Joseph Melito, Bruce Willis, Jon Seda, Michael Chance
 Rotten Tomatoes Rating: 7.4
 Rotton Tomatoes URL: http://www.rottentomatoes.com/m/12_monkeys/
 ---------------------------------------------------------------------------
-[aypmacpro]$: node liri.js my-tweets 
-Sun Jul 10 17:03:21: It has been 10 weeks since I started at RutgersCodingBootCamp, it definitely has helped me to broad up my skills as a web developer
-Fri Jul 08 19:02:37: “If you want to go quickly, go alone. If you want to go far, go together”
+Title : Twelve Monkeys
+Year  : 1995
+imdbID: tt0114746
+Country: USA
+Language: English, French
+Plot: In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.
+Actors: Joseph Melito, Bruce Willis, Jon Seda, Michael Chance
+Rotten Tomatoes Rating: 7.4
+Rotton Tomatoes URL: http://www.rottentomatoes.com/m/12_monkeys/
 
 ---------------------------------------------------------------------------
-[aypmacpro]$: node liri.js spotify-this-song I want it that way
-Backstreet Boys
-The Hits--Chapter One
-https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
-I Want It That Way
----------------------------------------------------------------------------
+[AYPMacPro]$: node liri.js my-tweets

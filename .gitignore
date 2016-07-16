@@ -5,3 +5,5 @@ keys.js
 # Optional npm cache directory
 .npm
 .DS_Store
+log.txt
+
